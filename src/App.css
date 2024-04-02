@@ -1,0 +1,55 @@
+.button2 {
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  background-color: #ff0044;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 1s ease;
+}
+
+.button1 {
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  background-color: #03fe6c;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 1s ease;
+}
+
+.buttons {
+  display: inline-block; /* Cambia el comportamiento a inline-block */
+}
+
+.gif-container {
+  display: block; /* Cambia el comportamiento a block */
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Esto establece la altura del contenedor al 100% de la altura de la ventana */
+  background-color: #c300ff; /* Reemplaza 'ruta/de/la/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Esto ajusta el tamaño de la imagen para cubrir el contenedor */
+  background-position: center; /* Esto centra la imagen en el contenedor */
+}
+
+.texto {
+  width: 200px; /* Ancho del contenedor del texto */
+  margin-left: 20px; /* Margen izquierdo para dejar espacio */
+}
+
+h1 {
+  color: #b52525;
+  border-bottom: 100px;
+  border-right: 100px;
+  justify-content: center;
+}
