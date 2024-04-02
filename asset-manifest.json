@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teamomillaray.github.io/static/css/main.052aee17.css",
+    "main.js": "/teamomillaray.github.io/static/js/main.d8c30ad2.js",
+    "static/js/453.7957c772.chunk.js": "/teamomillaray.github.io/static/js/453.7957c772.chunk.js",
+    "index.html": "/teamomillaray.github.io/index.html",
+    "main.052aee17.css.map": "/teamomillaray.github.io/static/css/main.052aee17.css.map",
+    "main.d8c30ad2.js.map": "/teamomillaray.github.io/static/js/main.d8c30ad2.js.map",
+    "453.7957c772.chunk.js.map": "/teamomillaray.github.io/static/js/453.7957c772.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.052aee17.css",
+    "static/js/main.d8c30ad2.js"
+  ]
+}
